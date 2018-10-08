@@ -8,5 +8,6 @@ namespace FileCart.ViewModels
     {
         public string Source => "D:\\Foo\\Bar\\";
         public string Destination => "C:\\Bar\\Foo\\";
+        public string SecondDestination => "C:\\Bar\\Foo\\";
     }
 }
